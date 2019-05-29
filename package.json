@@ -1,0 +1,14 @@
+{
+  "name": "key-value-equal",
+  "version": "0.1.0",
+  "description": "create an object with the same key value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key-value-equal"
+  ],
+  "author": "cq0122",
+  "license": "ISC"
+}
