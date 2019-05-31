@@ -10,5 +10,9 @@
     "key-value-equal"
   ],
   "author": "cq0122",
+  "homepage": "https://github.com/cq0122/key-value-equal",
+  "bugs": {
+    "url": "https://github.com/cq0122/key-value-equal/issues"
+  },
   "license": "MIT"
 }
