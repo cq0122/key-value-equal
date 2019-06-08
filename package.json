@@ -1,7 +1,7 @@
 {
   "name": "key-value-equal",
-  "version": "0.1.1",
-  "description": "create an object with the same key value",
+  "version": "0.1.2",
+  "description": "Declare an object with the same key value.",
   "main": "lib/index.js",
   "scripts": {
     "uglify-js": "uglifyjs lib/index.js -o lib/index.js",
